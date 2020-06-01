@@ -1,0 +1,1 @@
+const char cmd[] = "/home/takase/.local/bin/resizehook";
